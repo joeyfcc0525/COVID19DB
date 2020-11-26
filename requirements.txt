@@ -4,4 +4,3 @@ uk_covid19
 voila
 datetime
 ipywidgets
-json
